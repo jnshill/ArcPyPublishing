@@ -1,0 +1,2 @@
+http://pro.arcgis.com/en/pro-app/arcpy/sharing/tilesharingdraft-class.htm
+http://pro.arcgis.com/en/pro-app/arcpy/sharing/mapimagesharingdraft-class.htm
