@@ -1,5 +1,5 @@
 # Automate Publishing of Web Layers Using ArcPy
-For UC 2019 demo
+For UC demo
 
 1. Modify the secure\AGO_pass.txt and secure \ <portalName>.txt with your own username and password.
 1. Update the script to reference your own
